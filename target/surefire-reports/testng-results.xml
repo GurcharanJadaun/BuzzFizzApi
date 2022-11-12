@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="12" passed="12">
   <reporter-output>
   </reporter-output>
-  <suite name="Test Fizz Buzz" duration-ms="15747" started-at="2022-11-12T18:53:01Z" finished-at="2022-11-12T18:53:17Z">
+  <suite name="Test Fizz Buzz" duration-ms="5224" started-at="2022-11-12T19:15:51Z" finished-at="2022-11-12T19:15:57Z">
     <groups>
     </groups>
-    <test name="Set 1" duration-ms="15747" started-at="2022-11-12T18:53:01Z" finished-at="2022-11-12T18:53:17Z">
+    <test name="Set 1" duration-ms="5224" started-at="2022-11-12T19:15:51Z" finished-at="2022-11-12T19:15:57Z">
       <class name="Aisera.Task1.TestFizzBuzzWithFile">
-        <test-method status="PASS" signature="beforeClass()[pri:0, instance:Aisera.Task1.TestFizzBuzzWithFile@2c9f9fb0]" name="beforeClass" is-config="true" duration-ms="17" started-at="2022-11-13T00:23:17Z" finished-at="2022-11-13T00:23:17Z">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:Aisera.Task1.TestFizzBuzzWithFile@735b478]" name="beforeClass" is-config="true" duration-ms="17" started-at="2022-11-13T00:45:56Z" finished-at="2022-11-13T00:45:56Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method status="PASS" signature="testBuzzFizzWithFile(java.lang.String, java.lang.String)[pri:0, instance:Aisera.Task1.TestFizzBuzzWithFile@2c9f9fb0]" name="testBuzzFizzWithFile" duration-ms="22" started-at="2022-11-13T00:23:17Z" data-provider="testData" finished-at="2022-11-13T00:23:17Z">
+        <test-method status="PASS" signature="testBuzzFizzWithFile(java.lang.String, java.lang.String)[pri:0, instance:Aisera.Task1.TestFizzBuzzWithFile@735b478]" name="testBuzzFizzWithFile" duration-ms="16" started-at="2022-11-13T00:45:56Z" data-provider="testData" finished-at="2022-11-13T00:45:56Z">
           <params>
             <param index="0">
               <value>
@@ -27,7 +27,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testBuzzFizzWithFile -->
-        <test-method status="PASS" signature="testBuzzFizzWithFile(java.lang.String, java.lang.String)[pri:0, instance:Aisera.Task1.TestFizzBuzzWithFile@2c9f9fb0]" name="testBuzzFizzWithFile" duration-ms="56" started-at="2022-11-13T00:23:17Z" data-provider="testData" finished-at="2022-11-13T00:23:17Z">
+        <test-method status="PASS" signature="testBuzzFizzWithFile(java.lang.String, java.lang.String)[pri:0, instance:Aisera.Task1.TestFizzBuzzWithFile@735b478]" name="testBuzzFizzWithFile" duration-ms="51" started-at="2022-11-13T00:45:56Z" data-provider="testData" finished-at="2022-11-13T00:45:56Z">
           <params>
             <param index="0">
               <value>
@@ -43,7 +43,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testBuzzFizzWithFile -->
-        <test-method status="PASS" signature="testBuzzFizzWithFile(java.lang.String, java.lang.String)[pri:0, instance:Aisera.Task1.TestFizzBuzzWithFile@2c9f9fb0]" name="testBuzzFizzWithFile" duration-ms="40" started-at="2022-11-13T00:23:17Z" data-provider="testData" finished-at="2022-11-13T00:23:17Z">
+        <test-method status="PASS" signature="testBuzzFizzWithFile(java.lang.String, java.lang.String)[pri:0, instance:Aisera.Task1.TestFizzBuzzWithFile@735b478]" name="testBuzzFizzWithFile" duration-ms="35" started-at="2022-11-13T00:45:56Z" data-provider="testData" finished-at="2022-11-13T00:45:56Z">
           <params>
             <param index="0">
               <value>
@@ -59,7 +59,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testBuzzFizzWithFile -->
-        <test-method status="PASS" signature="testBuzzFizzWithFile(java.lang.String, java.lang.String)[pri:0, instance:Aisera.Task1.TestFizzBuzzWithFile@2c9f9fb0]" name="testBuzzFizzWithFile" duration-ms="42" started-at="2022-11-13T00:23:17Z" data-provider="testData" finished-at="2022-11-13T00:23:17Z">
+        <test-method status="PASS" signature="testBuzzFizzWithFile(java.lang.String, java.lang.String)[pri:0, instance:Aisera.Task1.TestFizzBuzzWithFile@735b478]" name="testBuzzFizzWithFile" duration-ms="99" started-at="2022-11-13T00:45:56Z" data-provider="testData" finished-at="2022-11-13T00:45:57Z">
           <params>
             <param index="0">
               <value>
@@ -75,7 +75,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testBuzzFizzWithFile -->
-        <test-method status="PASS" signature="testBuzzFizzWithFile(java.lang.String, java.lang.String)[pri:0, instance:Aisera.Task1.TestFizzBuzzWithFile@2c9f9fb0]" name="testBuzzFizzWithFile" duration-ms="64" started-at="2022-11-13T00:23:17Z" data-provider="testData" finished-at="2022-11-13T00:23:17Z">
+        <test-method status="PASS" signature="testBuzzFizzWithFile(java.lang.String, java.lang.String)[pri:0, instance:Aisera.Task1.TestFizzBuzzWithFile@735b478]" name="testBuzzFizzWithFile" duration-ms="38" started-at="2022-11-13T00:45:57Z" data-provider="testData" finished-at="2022-11-13T00:45:57Z">
           <params>
             <param index="0">
               <value>
@@ -91,7 +91,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testBuzzFizzWithFile -->
-        <test-method status="PASS" signature="testBuzzFizzWithFile(java.lang.String, java.lang.String)[pri:0, instance:Aisera.Task1.TestFizzBuzzWithFile@2c9f9fb0]" name="testBuzzFizzWithFile" duration-ms="34" started-at="2022-11-13T00:23:17Z" data-provider="testData" finished-at="2022-11-13T00:23:17Z">
+        <test-method status="PASS" signature="testBuzzFizzWithFile(java.lang.String, java.lang.String)[pri:0, instance:Aisera.Task1.TestFizzBuzzWithFile@735b478]" name="testBuzzFizzWithFile" duration-ms="42" started-at="2022-11-13T00:45:57Z" data-provider="testData" finished-at="2022-11-13T00:45:57Z">
           <params>
             <param index="0">
               <value>
@@ -109,7 +109,7 @@
         </test-method> <!-- testBuzzFizzWithFile -->
       </class> <!-- Aisera.Task1.TestFizzBuzzWithFile -->
       <class name="Aisera.Task1.TestFizzBuzz">
-        <test-method status="PASS" signature="testBuzzFizz(java.lang.String, java.lang.String)[pri:0, instance:Aisera.Task1.TestFizzBuzz@735b478]" name="testBuzzFizz" duration-ms="15208" started-at="2022-11-13T00:23:01Z" data-provider="testData" finished-at="2022-11-13T00:23:16Z">
+        <test-method status="PASS" signature="testBuzzFizz(java.lang.String, java.lang.String)[pri:0, instance:Aisera.Task1.TestFizzBuzz@52af6cff]" name="testBuzzFizz" duration-ms="4548" started-at="2022-11-13T00:45:51Z" data-provider="testData" finished-at="2022-11-13T00:45:56Z">
           <params>
             <param index="0">
               <value>
@@ -125,7 +125,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testBuzzFizz -->
-        <test-method status="PASS" signature="testBuzzFizz(java.lang.String, java.lang.String)[pri:0, instance:Aisera.Task1.TestFizzBuzz@735b478]" name="testBuzzFizz" duration-ms="56" started-at="2022-11-13T00:23:16Z" data-provider="testData" finished-at="2022-11-13T00:23:16Z">
+        <test-method status="PASS" signature="testBuzzFizz(java.lang.String, java.lang.String)[pri:0, instance:Aisera.Task1.TestFizzBuzz@52af6cff]" name="testBuzzFizz" duration-ms="68" started-at="2022-11-13T00:45:56Z" data-provider="testData" finished-at="2022-11-13T00:45:56Z">
           <params>
             <param index="0">
               <value>
@@ -141,7 +141,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testBuzzFizz -->
-        <test-method status="PASS" signature="testBuzzFizz(java.lang.String, java.lang.String)[pri:0, instance:Aisera.Task1.TestFizzBuzz@735b478]" name="testBuzzFizz" duration-ms="45" started-at="2022-11-13T00:23:16Z" data-provider="testData" finished-at="2022-11-13T00:23:16Z">
+        <test-method status="PASS" signature="testBuzzFizz(java.lang.String, java.lang.String)[pri:0, instance:Aisera.Task1.TestFizzBuzz@52af6cff]" name="testBuzzFizz" duration-ms="101" started-at="2022-11-13T00:45:56Z" data-provider="testData" finished-at="2022-11-13T00:45:56Z">
           <params>
             <param index="0">
               <value>
@@ -157,7 +157,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testBuzzFizz -->
-        <test-method status="PASS" signature="testBuzzFizz(java.lang.String, java.lang.String)[pri:0, instance:Aisera.Task1.TestFizzBuzz@735b478]" name="testBuzzFizz" duration-ms="59" started-at="2022-11-13T00:23:16Z" data-provider="testData" finished-at="2022-11-13T00:23:16Z">
+        <test-method status="PASS" signature="testBuzzFizz(java.lang.String, java.lang.String)[pri:0, instance:Aisera.Task1.TestFizzBuzz@52af6cff]" name="testBuzzFizz" duration-ms="97" started-at="2022-11-13T00:45:56Z" data-provider="testData" finished-at="2022-11-13T00:45:56Z">
           <params>
             <param index="0">
               <value>
@@ -173,7 +173,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testBuzzFizz -->
-        <test-method status="PASS" signature="testBuzzFizz(java.lang.String, java.lang.String)[pri:0, instance:Aisera.Task1.TestFizzBuzz@735b478]" name="testBuzzFizz" duration-ms="39" started-at="2022-11-13T00:23:16Z" data-provider="testData" finished-at="2022-11-13T00:23:16Z">
+        <test-method status="PASS" signature="testBuzzFizz(java.lang.String, java.lang.String)[pri:0, instance:Aisera.Task1.TestFizzBuzz@52af6cff]" name="testBuzzFizz" duration-ms="60" started-at="2022-11-13T00:45:56Z" data-provider="testData" finished-at="2022-11-13T00:45:56Z">
           <params>
             <param index="0">
               <value>
@@ -189,7 +189,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testBuzzFizz -->
-        <test-method status="PASS" signature="testBuzzFizz(java.lang.String, java.lang.String)[pri:0, instance:Aisera.Task1.TestFizzBuzz@735b478]" name="testBuzzFizz" duration-ms="38" started-at="2022-11-13T00:23:16Z" data-provider="testData" finished-at="2022-11-13T00:23:16Z">
+        <test-method status="PASS" signature="testBuzzFizz(java.lang.String, java.lang.String)[pri:0, instance:Aisera.Task1.TestFizzBuzz@52af6cff]" name="testBuzzFizz" duration-ms="26" started-at="2022-11-13T00:45:56Z" data-provider="testData" finished-at="2022-11-13T00:45:56Z">
           <params>
             <param index="0">
               <value>
