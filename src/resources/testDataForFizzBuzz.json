@@ -1,0 +1,13 @@
+[ {
+	"1" : "Invalid Input"
+}, {
+	"9" : "fizz"
+}, {
+	"50" : "buzz"
+}, {
+	"45" : "fizz buzz"
+}, {
+	"bc" : "Invalid Input"
+}, {
+	"" : "Status code : 404"
+} ]
